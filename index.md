@@ -140,7 +140,7 @@ SPECIAL REQUIREMENTS
 Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
-  <strong>Requirements:</strong> We work from the university computers in the PC Lab. However, if you would prefer to work from your own machine, please bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that you have administrative privileges on. You should have a few specific software packages installed (listed <a href="#setup">below</a>).
+  <strong>Requirements:</strong> We will work from the university computers in the PC Lab. However, if you would prefer to work from your own machine, please bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that you have administrative privileges on. You will need to have R and RStudio installed (additional help with installing these can be found <a href="#setup">below</a>).
 </p>
 
 {% comment %}
